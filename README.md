@@ -7,14 +7,14 @@
 
 <!-- Avatar + Socials -->
 <p align="center">
-  <img src="./remini-Photoroom(1).jpg" width="200" style="border-radius: 50%" alt="Raja's Avatar" />
+  <img src="./developer.gif" width="450" style="border-radius: 50%" alt="Raja's Avatar" />
 </p>
 <p align="center">
-  <a href="mailto:rajanayak.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/rajanayak-dev"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/rajanayak-dev"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://rajanayak.dev"><img src="https://img.shields.io/badge/-Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://leetcode.com/rajanayak-dev"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:nayakraja151@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/raja-nayak8658/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/rajaNayak123"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://raja-dev.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Raja_Nayak123/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 ---
@@ -26,11 +26,10 @@
 🎓 2nd year @ Polaris School of Technology | SGPA: 9.23  
 💬 Ask me about `React.js`, `Node.js`, `Express.js`, `MnogoDB`  
 💼 Currently looking for internship opportunities!
-
 📌 Currently working on:  
 - AI Plant Disease Detection 🌿  
-- Full-Stack E-Commerce App 🛒  
-- Video Streaming with FFmpeg 🎞️  
+- Full-Stack Imaage Selling Platform 🛒  
+- Full-Stack Todo Master 🎞️  
 
 ---
 
