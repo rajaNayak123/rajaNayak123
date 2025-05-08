@@ -73,8 +73,8 @@
         A platform to receive anonymous feedback with AI-based reply suggestions. Simple, elegant and powerful.
       </p>
       <p align="center">
-        <a href="https://github.com/rajaNayak123/AnonymousTalk"> <img src="https://img.shields.io/badge/Live Demo-28a745?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-        <a href="https://anonymous-talk.vercel.app/"><img src="https://img.shields.io/badge/View Code-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://anonymous-talk.vercel.app/"> <img src="https://img.shields.io/badge/Live Demo-28a745?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+        <a href="https://github.com/rajaNayak123/AnonymousTalk"><img src="https://img.shields.io/badge/View Code-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
     </td>
     <td width="33%">
