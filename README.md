@@ -7,14 +7,14 @@
 
 <!-- Avatar + Socials -->
 <p align="center">
-  <img src="./developer.gif" width="450" style="border-radius: 50%" alt="Raja's Avatar" />
+  <img src="./developer.gif" width="300" style="border-radius: 50%" alt="Raja's Avatar" />
 </p>
 <p align="center">
   <a href="mailto:nayakraja151@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/raja-nayak8658/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/rajaNayak123"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://raja-dev.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://leetcode.com/u/Raja_Nayak123/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://raja-dev.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
@@ -26,7 +26,8 @@
 🎓 2nd year @ Polaris School of Technology | SGPA: 9.23  
 💬 Ask me about `React.js`, `Node.js`, `Express.js`, `MnogoDB`  
 💼 Currently looking for internship opportunities!
-📌 Currently working on:  
+
+📌 Currently working on:
 - AI Plant Disease Detection 🌿  
 - Full-Stack Imaage Selling Platform 🛒  
 - Full-Stack Todo Master 🎞️  
@@ -65,57 +66,45 @@
       <h3 align="center">📬 Anonymous Feedback</h3>
       <p align="center">
         <a href="https://anonymous-feedback.rajanayak.dev">
-          <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="100%" alt="Anonymous Feedback GIF" />
+          <img src="messageimg.jpg" width="100%" alt="Anonymous Feedback GIF" />
         </a>
       </p>
       <p align="center">
         A platform to receive anonymous feedback with AI-based reply suggestions. Simple, elegant and powerful.
       </p>
       <p align="center">
-        <a href="https://anonymous-feedback.rajanayak.dev">
-          <img src="https://img.shields.io/badge/Live Demo-28a745?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-        <a href="https://github.com/rajanayak-dev/anonymous-feedback">
-          <img src="https://img.shields.io/badge/View Code-000000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
+        <a href="https://github.com/rajaNayak123/AnonymousTalk"> <img src="https://img.shields.io/badge/Live Demo-28a745?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+        <a href="https://anonymous-talk.vercel.app/"><img src="https://img.shields.io/badge/View Code-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
     </td>
     <td width="33%">
-      <h3 align="center">🎥 Video Hosting + Compression</h3>
+      <h3 align="center">🎥 AI-Powered SaaS for Media Optimization</h3>
       <p align="center">
         <a href="https://video-app.rajanayak.dev">
-          <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="100%" alt="Video Hosting GIF" />
+          <img src="saas.jpg" width="80%" alt="Video Hosting GIF" />
         </a>
       </p>
       <p align="center">
         Host and stream videos with smart FFmpeg compression and AI-generated previews for better user experience.
       </p>
       <p align="center">
-        <a href="https://video-app.rajanayak.dev">
-          <img src="https://img.shields.io/badge/Live Demo-28a745?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-        <a href="https://github.com/rajanayak-dev/video-streaming-app">
-          <img src="https://img.shields.io/badge/View Code-000000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
+        <a href="https://cloudinary-saas-self.vercel.app/sign-up"><img src="https://img.shields.io/badge/Live Demo-28a745?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+        <a href="https://github.com/rajaNayak123/cloudinary-saas"><img src="https://img.shields.io/badge/View Code-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
     </td>
     <td width="33%">
-      <h3 align="center">🧠 AI Media Compressor</h3>
+      <h3 align="center"> Image Selling Platform</h3>
       <p align="center">
         <a href="https://media-compressor.rajanayak.dev">
-          <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" alt="AI Media Compressor GIF" />
+          <img src="shoping.jpg" width="100%" alt="AI Media Compressor GIF" />
         </a>
       </p>
       <p align="center">
         Compress images and videos in real-time with AI for fast uploads and minimal quality loss.
       </p>
       <p align="center">
-        <a href="https://media-compressor.rajanayak.dev">
-          <img src="https://img.shields.io/badge/Live Demo-28a745?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-        <a href="https://github.com/rajanayak-dev/media-compressor">
-          <img src="https://img.shields.io/badge/View Code-000000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
+        <a href="https://selling-platform.vercel.app/"><img src="https://img.shields.io/badge/Live Demo-28a745?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+        <a href="https://github.com/rajaNayak123/sellingPlatform"><img src="https://img.shields.io/badge/View Code-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
     </td>
   </tr>
