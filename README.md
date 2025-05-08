@@ -7,7 +7,7 @@
 
 <!-- Avatar + Socials -->
 <p align="center">
-  <img src="./developer.gif" width="300" style="border-radius: 50%" alt="Raja's Avatar" />
+  <img src="./developer.gif" width="250" style="border-radius: 50%" alt="Raja's Avatar" />
 </p>
 <p align="center">
   <a href="mailto:nayakraja151@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
