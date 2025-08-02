@@ -28,7 +28,8 @@
 💼 Currently looking for internship opportunities!
 
 📌 Currently working on:
-- AI Plant Disease Detection 🌿  
+- AI Plant Disease Detection 🌿
+- DocuMind – AI-Powered Knowledge Base SaaS for Teams
 
 ---
 
