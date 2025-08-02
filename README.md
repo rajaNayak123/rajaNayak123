@@ -29,8 +29,6 @@
 
 📌 Currently working on:
 - AI Plant Disease Detection 🌿  
-- Full-Stack Imaage Selling Platform 🛒  
-- Full-Stack Todo Master 🎞️  
 
 ---
 
