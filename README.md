@@ -59,7 +59,7 @@ Deployed via GitHub Actions → Docker → AWS EC2.
 
 ---
 
-### 🎬 AI-Powered SaaS Media Platform — *[GitHub](https://github.com/rajaNayak123/cloudinary-saas) · [Live Demo](https://github.com/rajaNayak123/cloudinary-saas)*
+### 🎬 AI-Powered SaaS Media Platform — *[GitHub](https://github.com/rajaNayak123/cloudinary-saas) · [Live Demo](https://cloudinary-saas-self.vercel.app/sign-up)*
 
 AI-driven media optimization engine reducing manual prep time by **80%** across 10+ social media presets.
 Multi-tenant SaaS with RBAC and collaborative commenting, supporting **50+ concurrent users**.
