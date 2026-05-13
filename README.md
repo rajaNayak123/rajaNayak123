@@ -17,9 +17,9 @@
 ### 🟢 Actively open to Backend / Fullstack SDE roles
 
 [![Email](https://img.shields.io/badge/Email%20Me-nayakraja151%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayakraja151@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raja-nayak8658/)
-[![Phone](https://img.shields.io/badge/Call-+91--8658250208-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918658250208)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raja-nayak8658/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Raja_Nayak123/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://raja-dev.vercel.app/)
 
 </div>
 
@@ -138,7 +138,8 @@ If you're building at scale, moving fast, or pushing into AI-native products, I'
 
 [![Email](https://img.shields.io/badge/nayakraja151%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayakraja151@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raja-nayak8658/)
-[![Phone](https://img.shields.io/badge/+91--8658250208-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918658250208)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/NayakRaja200)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nayakraja200/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,60:302b63,100:0f0c29&height=100&section=footer&animation=twinkling" width="100%"/>
 
