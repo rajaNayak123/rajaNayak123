@@ -46,7 +46,7 @@ Integrated JDoodle API for live DSA evaluation. Full pipeline: session managemen
 
 ---
 
-### ⚡ Event Replay Recovery System — *[GitHub](#) · [Live Demo](#)*
+### ⚡ Event Replay Recovery System — *[GitHub](https://github.com/rajaNayak123/Event-Replay-Recovery-Systems) · [Live Demo](https://github.com/rajaNayak123/Event-Replay-Recovery-Systems)*
 
 Distributed event recovery built with Kafka + PostgreSQL. **100% data consistency** even under traffic spikes.
 Fault-tolerant pipeline: dead-letter queues, 3× exponential backoff retry logic, **40% reduction** in manual error intervention.
@@ -59,7 +59,7 @@ Deployed via GitHub Actions → Docker → AWS EC2.
 
 ---
 
-### 🎬 AI-Powered SaaS Media Platform — *[GitHub](#) · [Live Demo](#)*
+### 🎬 AI-Powered SaaS Media Platform — *[GitHub](https://github.com/rajaNayak123/cloudinary-saas) · [Live Demo](https://github.com/rajaNayak123/cloudinary-saas)*
 
 AI-driven media optimization engine reducing manual prep time by **80%** across 10+ social media presets.
 Multi-tenant SaaS with RBAC and collaborative commenting, supporting **50+ concurrent users**.
@@ -104,13 +104,13 @@ Secure delivery: password-protected links + time-expiring tokens → **99% reduc
 ## GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajaNayak123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github&hide=stars&cache_seconds=1800" height="170"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaNayak123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6&cache_seconds=1800" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=raja-nayak8658&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github&hide=stars" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raja-nayak8658&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" height="170"/>
+  <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raja-nayak8658&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="55%"/>
-
+  <img src="https://streak-stats.demolab.com/?user=rajaNayak123&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" height="170"/>
 </div>
 
 ---
