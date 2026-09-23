@@ -9,7 +9,7 @@
 
 ---
 
-## I build production AI systems voice agents, multi-agent LLM pipelines, and RAG architectures that ship.
+
 
 > Full-stack developer comfortable across the stack: React/Next.js on the frontend, Node.js/Express on the backend, and distributed, event-driven systems on AWS.
 > Currently based in **Gurugram, Haryana** open to remote or relocation.
@@ -22,8 +22,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayakraja/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Raja_Nayak123/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://raja-dev.vercel.app/)
-
-<img src="https://komarev.com/ghpvc/?username=rajaNayak123&style=for-the-badge&color=a78bfa&label=PROFILE+VIEWS" alt="profile views" />
 
 </div>
 
