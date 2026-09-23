@@ -3,13 +3,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,60:302b63,100:0f0c29&height=160&section=header&text=Raja%20Nayak&fontSize=56&fontColor=fff&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20AI%2FGenAI%20Engineer%20%7C%20Distributed%20Systems&descAlignY=65&descColor=a78bfa&animation=twinkling" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=95&lines=Building+voice+agents+that+talk+back+in+%3C400ms;Shipping+multi-agent+LLM+pipelines+at+scale;RAG+systems+with+98%25%2B+context+recall;Currently%3A+Fullstack+Dev+Intern+%40+GrowthGear" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=85&lines=Building+voice+agents+that+talk+back+in+%3C400ms;Shipping+multi-agent+LLM+pipelines+at+scale;RAG+systems+with+98%25%2B+context+recall;Currently%3A+Fullstack+Dev+Intern+%40+GrowthGear" alt="Typing SVG" />
 
 </div>
 
 ---
-
-
 
 > Full-stack developer comfortable across the stack: React/Next.js on the frontend, Node.js/Express on the backend, and distributed, event-driven systems on AWS.
 > Currently based in **Gurugram, Haryana** open to remote or relocation.
